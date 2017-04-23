@@ -1,0 +1,822 @@
+<Recipes>	
+	<Recipe>
+		<RecipeName>Sumuštinis su sūriu</RecipeName>
+		<Procesas>Ant duonos užtepti sviesto ir uždėti sūrio.</Procesas>
+		<CookingTime>3</CookingTime>
+		<ProductsQuantity>3</ProductsQuantity>
+		<RecipeProducts>
+			<Product>
+				<Name>Duona</Name>
+				<Quantity>1</Quantity>	
+			</Product>
+			<Product>
+				<Name>Sūris</Name>
+				<Quantity>1vnt</Quantity>
+			</Product>
+			<Product>
+				<Name>Sviestas</Name>
+				<Quantity>1vnt</Quantity>
+			</Product>
+		</RecipeProducts>
+	</Recipe>
+  <Recipe>
+    <RecipeName>Daržovių salotos (su raugintais agurkais)</RecipeName>
+    <Procesas>Daržoves supjaustyti, sudėti į dubenį.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Pomidoras</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Rauginti agurkai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Marinuoti žirneliai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Salotų lapai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Daržovių salotos</RecipeName>
+    <Procesas>Daržoves supjaustyti, sudėti į dubenį.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Agurkas</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Pomidoras</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Marinuoti žirneliai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Salotų lapai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Troškinys su vištiena</RecipeName>
+    <Procesas>Bulves, morkas, vištieną, supjaustyti, troškinti puode. Iki paruošimo likus 3 min, uždrėbti majonezo.</Procesas>
+    <CookingTime>40</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Vištiena</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Morkos</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Majonezas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Studento pusryčiai</RecipeName>
+    <Procesas>Dešreles išvirti, valgyti su duona arba kečupu.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Pieniškos dešrelės</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Kečupas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Šaltibarščiai</RecipeName>
+    <Procesas>Daržoves bei kiaušinius supjaustyti į dubenį ir viską užpilti kefyru. Valgyti su virtomis bulvėmis.</Procesas>
+    <CookingTime>20</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Agurkas</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Kiaušianiai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Burokas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Sumuštinis su lašiša</RecipeName>
+    <Procesas>Ant duonos užtepti sviesto, uždėti lašišos.</Procesas>
+    <CookingTime>3</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Sviestas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Lašiša</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Kakavos gėrimas su pienu</RecipeName>
+    <Procesas>Kakavą užpilti verdančiu vandeniu, pienu.</Procesas>
+    <CookingTime>5</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kakava</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Pienas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Triufeliai</RecipeName>
+    <Procesas>Padaryti tešlą iš sviesto, kiaušinių bei cukraus, mynkant pilti miltus. Padaryti mažus sausainiukus, kepti orkaitėje 200 C. Iškepus išvolioti kakavoje.</Procesas>
+    <CookingTime>60</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kakava</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Miltai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Sviestas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Keptos bulvės</RecipeName>
+    <Procesas>Supjaustyti kubeliais ir kepti keptuvėje.</Procesas>
+    <CookingTime>20</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Vaisių salotos</RecipeName>
+    <Procesas>Vaisius supjaustyti į dubenį.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Obuolys</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Apelsinas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Bananas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Vegetariškas troškinys</RecipeName>
+    <Procesas>Supjaustyti morkas į raugintus kopūstus ir patroškinti. Bulves išvirti. Tuomet į skardą išpilti patroškintus raug. kopūstus su morkomis ir ant viršaus išdėlioti grežinėliais supjaustytas bulves. Pakepti orkaitėje.</Procesas>
+    <CookingTime>60</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Morkos</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Rauginti kopūstai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Bulvių košė</RecipeName>
+    <Procesas>Bulves išvirti ir suminkyti. Įpilti šiek tiek pieno.</Procesas>
+    <CookingTime>30</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Pienas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Pomidorų ir agurkų salotos</RecipeName>
+    <Procesas>Agurkus bei pomodorus supjaustyti, sudėti į dubenį, uždrėbti grietinės.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Agurkas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Pomidoras</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Grietinė</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Bulviniai blynai</RecipeName>
+    <Procesas>Bulves sutarkuoti, įmušti kiaušinių, kepti keptuvėje. Valgyti su grietine.</Procesas>
+    <CookingTime>40</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Sumuštinis su rūkyta dešra</RecipeName>
+    <Procesas>Ant duonos užtepti sviesto, uždėti rūkytos dešros, pasigardinti agurku.</Procesas>
+    <CookingTime>3</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Rūkyta dešra</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Sviestas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Lenkiška sriuba</RecipeName>
+    <Procesas>Išvirti rūkytą dešrą, įberti pipirų bei druskos, valgyti su grietine bei duona.</Procesas>
+    <CookingTime>30</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Rūkyta dešra</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Pipirai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Balta mišrainė</RecipeName>
+    <Procesas>Supjaustyti virtas bulves bei morkas, raugintus agurkus, marinuotus žirnelius, virtus kiaušinius. Viską sudėti į dubenį, uždrėbti majonezo, pagardinti druska/pipirais.</Procesas>
+    <CookingTime>30</CookingTime>
+    <ProductsQuantity>3</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>1</Quantity>
+      </Product>
+      <Product>
+        <Name>Morkos</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Pipirai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Rauginti agurkai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Majonezas</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+      <Product>
+        <Name>Marinuoti žirneliai</Name>
+        <Quantity>1vnt</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+	<Recipe>
+		<RecipeName>Pieno kokteilis</RecipeName>
+		<Procesas>Bananą supjaustyti mažais grežinėliais, užpilti pienu, suplakti plaktuvu.</Procesas>
+		<CookingTime>5</CookingTime>
+		<ProductsQuantity>2</ProductsQuantity>
+		<RecipeProducts>
+			<Product>
+				<Name>Bananas</Name>
+				<Quantity>1vnt</Quantity>
+			</Product>
+			<Product>
+				<Name>Pienas</Name>
+				<Quantity>1vnt</Quantity>
+			</Product>
+		</RecipeProducts>
+	</Recipe>
+	<Recipe>
+		<RecipeName>Cezario salotos</RecipeName>
+		<Procesas>Vištieną supjaustyti į mažus gabalėlius, sudėti į dubenį kartu su solotomis bei supjausyta duona, užberti sūrio.</Procesas>
+		<CookingTime>15</CookingTime>
+		<ProductsQuantity>4</ProductsQuantity>
+		<RecipeProducts>
+			<Product>
+				<Name>Duona</Name>
+				<Quantity>2vnt</Quantity>
+			</Product>
+			<Product>
+				<Name>Salotų lapai</Name>
+				<Quantity>3vnt</Quantity>
+			</Product>
+			<Product>
+				<Name>Vištiena</Name>
+				<Quantity>2vnt</Quantity>
+			</Product>
+			<Product>
+				<Name>Sūris</Name>
+				<Quantity>2vnt</Quantity>
+			</Product>
+		</RecipeProducts>
+	</Recipe>
+	<Recipe>
+		<RecipeName>Paprasti blynai</RecipeName>
+		<Procesas>Į dubenį įmušti kiaušinį, įberti miltų, įpilti pieno, įdėti cukraus, druskos, viską sumaišyti. Kepti keptuvėje, valgyti su džemu.</Procesas>
+		<CookingTime>20</CookingTime>
+		<ProductsQuantity>5</ProductsQuantity>
+		<RecipeProducts>
+			<Product>
+				<Name>Kiaušiniai</Name>
+				<Quantity>2</Quantity>
+			</Product>
+			<Product>
+				<Name>Miltai</Name>
+				<Quantity>100 grams</Quantity>
+			</Product>
+			<Product>
+				<Name>Pienas</Name>
+				<Quantity>1 litr</Quantity>
+			</Product>
+			<Product>
+				<Name>Druska</Name>
+				<Quantity>5 grams</Quantity>
+			</Product>
+			<Product>
+				<Name>Cukrus</Name>
+				<Quantity>5 grams</Quantity>
+			</Product>
+		</RecipeProducts>
+	</Recipe>
+  <Recipe>
+    <RecipeName>Angliški pusryčiai</RecipeName>
+    <Procesas>Iškepti kiaušinienę, tosteryje paspraginti duonos, pateikti su daržvomėmis bei kepta kiaulienos šonine.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Kiaulienos šoninė</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Valstiečio pietūs</RecipeName>
+    <Procesas>Išvirtas bulves valgyti su sviestu ir druska.</Procesas>
+    <CookingTime>20</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Sviestas</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+<Recipe>
+    <RecipeName>Sviestiniai sausainiai</RecipeName>
+    <Procesas>Padaryti tešlą iš sviesto, kiaušinių, miltu bei cukraus. Suformuoti sasainiukus, kepti orkaitėje 200 C.</Procesas>
+    <CookingTime>30</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Miltai</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Sviestas</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Keptas kiaušinis duonoje</RecipeName>
+    <Procesas>Duonos reikėje išpjauti skylę, kepti, į vidų įmušti kiaušinį.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>„Aštunkojai"</RecipeName>
+    <Procesas>Pieniškų dešrelių galus įpjauti išilgai, kepti keptuvėje, valgyti su kečupu.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Pieniškos dešrelės</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Kečupas</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Kepta duona su pikantišku padažu</RecipeName>
+    <Procesas>Padažą keptai duonai padaryti iš supjaustytų virtų kiaušinių, tarkuoto sūrio bei majonezo. Tepti ant keptos duonos.</Procesas>
+    <CookingTime>20</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Sūris</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Karštas sumuštinis (su rūkyta dešra)</RecipeName>
+    <Procesas>Rūkytą dešrą supjaustyti grežinėliais, sudėti ant kečupu suteptos duonos, apibarstyti sūriu, kepti orkaitėje.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kečupas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Rūkyta dešra</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Sūris</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Karštas sumuštinis (su pieniška dešrele)</RecipeName>
+    <Procesas>Pienišką dešrelę supjaustyti grežinėliais, sudėti ant kečupu suteptos duonos, apibarstyti sūriu, kepti orkaitėje.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Kečupas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Pieniškos dešrelės</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Sūris</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Lašišos salotos</RecipeName>
+    <Procesas>Viską supjaustyti, sudėti į dubenį.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Lašiša</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Salotų lapai</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Agurkas</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+     <Product>
+        <Name>Druska</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Obuolių pyragas</RecipeName>
+    <Procesas>Padaryti tešlą iš cukraus, miltų, kiaušinių bei pieno. Įmaišyti supjaustytus obuolius, kepti orkaitėje.</Procesas>
+    <CookingTime>40</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Obuolys</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Miltai</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Pienas</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+     <Product>
+        <Name>Kiaušiniai</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Virtos bulvės su kefyru</RecipeName>
+    <Procesas>Išvirti bulves, valgyti užsigeriant kefyru (kaip tikri lietuviai!).</Procesas>
+    <CookingTime>40</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Kefyras</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Burokėlių sriuba</RecipeName>
+    <Procesas>Į verdantį vandenį sudėti burokus, bulves, morkas, pagardinti pipirais, druska.</Procesas>
+    <CookingTime>30</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Burokas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Bulvės</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Morkos</Name>
+        <Quantity>1 litr</Quantity>
+      </Product>
+      <Product>
+        <Name>Druska</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+     <Product>
+        <Name>Pipirai</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    <Product>
+        <Name>Grietinė</Name>
+        <Quantity>5 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Apelsinų sultys</RecipeName>
+    <Procesas>Apelsiną perpjauti per pusę, išspausti.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Apelsinas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Apelsinų ir obuolių sultys</RecipeName>
+    <Procesas>Apelsiną perpjauti per pusę, obuolius supjaustyti skiltelėmis, išspausti.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Apelsinas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Obuolys</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Sumuštinis su duona, grietine bei cukrumi</RecipeName>
+    <Procesas>Ant duonos storai užtepti grietinės, užberti cukraus.</Procesas>
+    <CookingTime>10</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Duona</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Grietinė</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>Kepti obuoliai</RecipeName>
+    <Procesas>Išgremžti obuolio graužtuką ir apbarstyti cukrumi. Kepti kol obuolys suminkštės.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Obuolys</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+  <Recipe>
+    <RecipeName>„Barfi"</RecipeName>
+    <Procesas>Į pieną suberti cukrų, virinti maišant tol kol pasidarys tiršta masė. Tuomet palaikius šaldytuve kol atvės, padaryti kamuolukus ir turime saldumynus.</Procesas>
+    <CookingTime>15</CookingTime>
+    <ProductsQuantity>5</ProductsQuantity>
+    <RecipeProducts>
+      <Product>
+        <Name>Pienas</Name>
+        <Quantity>2</Quantity>
+      </Product>
+      <Product>
+        <Name>Cukrus</Name>
+        <Quantity>100 grams</Quantity>
+      </Product>
+    </RecipeProducts>
+  </Recipe>
+</Recipes>

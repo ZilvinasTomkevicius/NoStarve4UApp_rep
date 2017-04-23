@@ -1,0 +1,3 @@
+-tvarkos palaikymas kode
+-eiti miegoti anskciau
+-geresnis laiko planavimas
